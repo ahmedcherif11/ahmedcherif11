@@ -1,7 +1,23 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Computer vision models, focusing on image anomaly detection and human embryo classification using advanced deep learning architectures.<br>🤝 I’m looking to collaborate on AI-driven projects that involve computer vision, predictive modeling, or battery optimization using machine learning and deep learning.<br>🌱 I’m looking for help with Exploring advanced machine learning models, particularly in computer vision tasks and improving real-time image processing systems.<br>📚 I’m currently learning How to integrate Graph Transformers into computer vision applications and optimize real-time model performance.<br>💬 Ask me about My work on anomaly detection in satellite images using autoencoders or human embryo classification using a Graph Transformer architecture.<br>⚡ Fun fact  I love applying computer vision techniques across various fields like sports, healthcare, and beyond, always looking for new ways to solve complex problems with AI!
 
+🔭 **I’m currently working on**:  
+Computer vision models, focusing on anomaly detection and leveraging advanced deep learning techniques.
+
+🤝 **I’m looking to collaborate on**:  
+AI-driven projects involving computer vision, predictive modeling, or time series analysis, utilizing machine learning and deep learning.
+
+🌱 **I’m looking for help with**:  
+Exploring advanced machine learning models, particularly in improving real-time image and video processing systems.
+
+📚 **I’m currently learning**:  
+How to integrate Graph Transformers into computer vision applications and optimize real-time model performance.
+
+💬 **Ask me about**:  
+My work in computer vision, AI, or any project involving image or video analysis.
+
+⚡ **Fun fact**:  
+I love applying computer vision techniques across fields like sports, healthcare, and beyond, always looking for new ways to solve challenges with AI!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-cherif9/) 
